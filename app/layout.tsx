@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "TNEB Bill Calculator",
   description: "TNEB Bill Calculator - Tamil Nadu Electricity Tariff Estimator",
-  keywords: 'TNEB, TNEB calculator, Tamil Nadu EB bill, electricity bill, TNEB tariff, bill estimator, TN electricity calculator',
+  keywords: 'TNEB, TNEB calculator, TNEB calculator 2024, TNEB calculator 2025, Tamil Nadu EB bill, electricity bill, TNEB tariff, bill estimator, TN electricity calculator',
   authors: { url: 'https://www.sathishkrishnan.tech/', name: 'Sathish Krishnan'},
   applicationName: 'TNEB Bill Calculator',
   viewport: {
