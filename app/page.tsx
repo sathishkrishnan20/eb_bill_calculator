@@ -4,14 +4,14 @@
 
 import { useState } from "react";
 // constants/tariff.ts
-export const TNEB_TARIFF_UPTO_500 = [
+const TNEB_TARIFF_UPTO_500 = [
   { min: 0, max: 100, rate: 0 },
   { min: 101, max: 200, rate: 2.35 },
   { min: 201, max: 400, rate: 4.7 },
   { min: 401, max: 500, rate: 6.30 }, // Flat above 500
 ];
 
-export const TNEB_TARIFF_ABOVE_500 = [
+const TNEB_TARIFF_ABOVE_500 = [
   { min: 0, max: 100, rate: 0 },
   { min: 101, max: 400, rate: 4.7 },
   { min: 401, max: 500, rate: 6.30 },

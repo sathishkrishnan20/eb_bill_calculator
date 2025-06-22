@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'TNEB Bill Calculator - Tamil Nadu EB Estimator',
     description: 'Calculate your Tamil Nadu electricity bill easily with slab-wise breakdowns.',
-    images: 'https://bill-calculator.sathishkrishnan.tech/tneb-preview.png'
+    images: 'https://eb-bill-calculator.sathishkrishnan.tech/tneb-preview.png'
   },
 };
 
